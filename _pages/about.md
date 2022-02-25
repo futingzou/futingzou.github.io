@@ -15,7 +15,7 @@ Before coming to U. of Oregon, I was a research assistant at NYU-ECNU Institute 
 
 **Publications**
 
-* **Zou F** & Kwok SC (in press). Distinct generation of subjective vividness and confidence during naturalistic memory retrieval in angular gyrus. *Journal of Cognitive Neuroscience*. #[[pdf]](files/JoCN_2022.pdf)
+* **Zou F** & Kwok SC (in press). Distinct generation of subjective vividness and confidence during naturalistic memory retrieval in angular gyrus. *Journal of Cognitive Neuroscience*.
 * Zheng Y, Wang D, Ye Q, **Zou F**, Yin J, Li Y & Kwok SC (2021). Diffusion property and functional connectivity of superior longitudinal fasciculus underpin human metacognition. *Neuropsychologia*. [[pdf]](files/Neuropsychologia_2021.pdf)
 * Rahnev D, …, **Zou F** & Zylberbeg A (2020). The Confidence Database. *Nature Human Behaviour*. [[pdf]](files/NHB_2020.pdf)
 * Ye Q, **Zou F**, Dayan M, Lau, H, Hu Y & Kwok SC (2019). Individual susceptibility to TMS affirms the precuneal role in meta-memory upon recollection. *Brain Structure and Function*. [[pdf]](files/BSAF_2019.pdf)
