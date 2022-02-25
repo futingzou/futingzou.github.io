@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+About me
+-----
 Hi! I'm Futing Zou.
 
 I am a 3rd year PhD student in Cognitive Neuroscience at University of Oregon co-supervised by [Dr. Sarah DuBrow](https://www.dubrowlab.org/) and [Dr. Ben Hutchinson](https://hulacon.uoregon.edu/). I am broadly interested in studying learning and memory in humans.
