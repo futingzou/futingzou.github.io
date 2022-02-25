@@ -24,7 +24,7 @@ Papers
 * Rahnev D, …, **Zou F** & Zylberbeg A (2020). The Confidence Database. *Nature Human Behaviour*. [[pdf]](files/NHB_2020.pdf)
 * Ye Q, **Zou F**, Dayan M, Lau, H, Hu Y & Kwok SC (2019). Individual susceptibility to TMS affirms the precuneal role in meta-memory upon recollection. *Brain Structure and Function*. [[pdf]](files/BSAF_2019.pdf)
 * Berna F, **Zou F**, Danion JM & Kwok SC (2018). Overconfidence in false autobiographical memories in patients with schizophrenia. *Psychiatry Research*. [[pdf]](files/PsychiatryRes_2019.pdf)
-* Ye Q*, **Zou F***, Lau H, Hu Y & Kwok SC (2018). Causal evidence for mnemonic metacognition in human precuneus. *Journal of Neuroscience*. [[pdf]](files/JN_2018.pdf)
+* Ye Q*, **Zou F\***, Lau H, Hu Y & Kwok SC (2018). Causal evidence for mnemonic metacognition in human precuneus. *Journal of Neuroscience*. [[pdf]](files/JN_2018.pdf)
 
 
 Selected Presentations
