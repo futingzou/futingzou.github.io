@@ -15,4 +15,4 @@ My PhD research focuses on understanding how the human brain represents informat
 
 Before coming to U. of Oregon, I was a research assistant at NYU-ECNU Institute of Brain and Cognitive Science at NYU Shanghai, where I worked with [Dr. Sze Chai Kwok](http://www.kwoklab.org/) on human metacognition (e.g. the ability to monitor one's own cognitive processes).
 
-Want to get in touch? The best way to contact me is by [email](mailto:futingz@uoregon.edu).
+Want to get in touch? The best way to contact me is by [email](mailto:futingz@uoregon.edu)
