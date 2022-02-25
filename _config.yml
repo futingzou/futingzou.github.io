@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Futing Zou"
   avatar           : "profile.png"
-  bio              : "PhD student in Cognitive Neuroscience"
-  location         : "Eugene, OR"
+  bio              : "Cognitive Neuroscience PhD student in Department of Psychology at University of Oregon"
+#  location         : "Eugene, OR"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dOQwWbAAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/futing-zou-568b22112/"
-  orcid            : "http://orcid.org/0000-0001-8058-2917"
+#  orcid            : "http://orcid.org/0000-0001-8058-2917"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
