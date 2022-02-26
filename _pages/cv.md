@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Psychology (Cognitive Neuroscience area), University of Oregon, 2019-2024 (expected)
+* M.S. in Psychology, University of Oregon, 2019-2020
+* B.A. in Psychology and Finance (minor), East China Normal University, 2013-2017
 
-Work experience
+
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Graduate Research
+  * University of Oregon
+  * Advisors: Sarah DuBrow & J. Benjamin Hutchinson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2019: Research Assistant
+  * NYU-ECNU Institute of Brain and Cognitive Science at NYU Shanghai
+  * Advisor: Sze Chai Kwok
   
 Skills
 ======
