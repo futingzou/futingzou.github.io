@@ -18,7 +18,7 @@ author_profile: true
 Papers
 =======
 \* denotes equally contributing authors
-* **Zou F** & Kwok SC (in press). Distinct generation of subjective vividness and confidence during naturalistic memory retrieval in angular gyrus. *Journal of Cognitive Neuroscience*. [[preprint]](https://www.biorxiv.org/content/10.1101/2021.03.10.434526v2)
+* **Zou F** & Kwok SC (in press). Distinct generation of subjective vividness and confidence during naturalistic memory retrieval in angular gyrus. *Journal of Cognitive Neuroscience*. [[link]](https://doi.org/10.1162/jocn_a_01838)
 * Zheng Y, Wang D, Ye Q, **Zou F**, Yin J, Li Y & Kwok SC (2021). Diffusion property and functional connectivity of superior longitudinal fasciculus underpin human metacognition. *Neuropsychologia*. [[link]](https://www.sciencedirect.com/science/article/pii/S0028393221000981) [[pdf]](http://futingzou.github.io/files/Neuropsychologia_2021.pdf) 
 * Rahnev D, …, **Zou F** & Zylberbeg A (2020). The Confidence Database. *Nature Human Behaviour*. [[link]](https://www.nature.com/articles/s41562-019-0813-1) [[pdf]](http://futingzou.github.io/files/NHB_2020.pdf)
 * Ye Q, **Zou F**, Dayan M, Lau, H, Hu Y & Kwok SC (2019). Individual susceptibility to TMS affirms the precuneal role in meta-memory upon recollection. *Brain Structure and Function*. [[link]](https://link.springer.com/article/10.1007/s00429-019-01909-6) [[pdf]](http://futingzou.github.io/files/BSAF_2019.pdf)
