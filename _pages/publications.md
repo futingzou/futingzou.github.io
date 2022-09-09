@@ -18,6 +18,7 @@ author_profile: true
 Papers
 =======
 \* denotes equally contributing authors
+* **Zou F,** Guo W, Allen EJ, Wu Y, Charest I, Naselaris T, Kay K, Kuhl BA, Hutchinson JB* & DuBrow S* (Preprint). Re-expression of CA1 and entorhinal activity patterns preserves temporal context memory at long timescales. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2022.08.31.506090v1)
 * **Zou F** & Kwok SC (2022). Distinct generation of subjective vividness and confidence during naturalistic memory retrieval in angular gyrus. *Journal of Cognitive Neuroscience*. [[link]](https://doi.org/10.1162/jocn_a_01838)
 * Zheng Y, Wang D, Ye Q, **Zou F**, Yin J, Li Y & Kwok SC (2021). Diffusion property and functional connectivity of superior longitudinal fasciculus underpin human metacognition. *Neuropsychologia*. [[link]](https://www.sciencedirect.com/science/article/pii/S0028393221000981) [[pdf]](http://futingzou.github.io/files/Neuropsychologia_2021.pdf) 
 * Rahnev D, …, **Zou F** & Zylberbeg A (2020). The Confidence Database. *Nature Human Behaviour*. [[link]](https://www.nature.com/articles/s41562-019-0813-1) [[pdf]](http://futingzou.github.io/files/NHB_2020.pdf)
