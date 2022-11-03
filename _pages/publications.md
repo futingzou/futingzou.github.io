@@ -29,5 +29,6 @@ Papers
 
 Selected Presentations
 ======
+* **Zou F**, Naselaris T, Kay K, Kuhl BA, DuBrow S & Hutchinson JB (2022). Time-dependent contributions of hippocampus and vmPFC to distributed learning. *Society for Neuroscience, San Diego, CA, poster presentation*.
 * **Zou F**, Allen E, Wu Y, Charest I, Naselaris T, Kay K, Hutchinson JB & DuBrow S (2021). Hippocampal and entorhinal pattern reinstatement mediates long-timescale temporal memory. *Context and Episodic Memory Symposium, Philadelphia, PA, poster presentation*.
 * **Zou F**, Allen E, Wu Y, Charest I, Naselaris T, Kay K, Hutchinson JB & DuBrow S (2021). For the When: The Role of the Medial Temporal Lobe in Encoding Long-Timescale Temporal Information. *Cognitive Neuroscience Society Annual Meeting, virtual, poster presentation*.
