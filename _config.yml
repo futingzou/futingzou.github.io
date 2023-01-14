@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Futing Zou"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Department of Psychology at University of Oregon"
+  bio              : "PhD student at University of Oregon"
 #  location         : "Eugene, OR"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dOQwWbAAAAAJ&hl=en"
-  email            : "futingz@uoregon.edu"
+  email            : # "futingz@uoregon.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "futingzou"
+  github           : #"futingzou"
   google_plus      :
   keybase          :
   instagram        :
