@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DSE37TPFBZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DSE37TPFBZ');
+</script>
 
 I am a 4th year Ph.D. student in Cognitive Neuroscience at University of Oregon co-advised by [Dr. Sarah DuBrow](https://www.dubrowlab.org/), [Dr. Ben Hutchinson](https://hulacon.uoregon.edu/), and [Dr. Brice Kuhl](https://kuhllab.com/). I am broadly interested in studying how the brain represents our everyday experiences. Specifically, my PhD research aims to understand how the human brain processes and encodes the temporal context in which events occur, and how temporal context change and stability influence our memory, using behavioral, neural and computational methods. 
 
