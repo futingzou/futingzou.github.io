@@ -22,4 +22,4 @@ I am a Ph.D. candidate in Cognitive Neuroscience at the University of Oregon co-
 
 Prior to graduate school, I was a research assistant at NYU-ECNU Institute of Brain and Cognitive Science at NYU Shanghai, where I worked with [Dr. Sze Chai Kwok](http://www.kwoklab.org/) on undertanding how humans decide on the fidelity of mnemonic decisions, and how the brain supports these functions.
 
-Want to get in touch? The best way to contact me is by [email](mailto:futingz@uoregon.edu).
+Want to get in touch? The best way to contact me is by [`email`](mailto:futingz@uoregon.edu).
