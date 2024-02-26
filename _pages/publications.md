@@ -25,6 +25,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
+You can find my full list of publications on my [`Google Scholar profile`](https://scholar.google.com/citations?user=dOQwWbAAAAAJ&hl=en)
+
 Publications
 =======
 \* denotes equal contribution
