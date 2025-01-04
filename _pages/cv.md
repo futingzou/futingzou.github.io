@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/pdf/Zou_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/pdf/FutingZou_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/Zou_CV.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/FutingZou_CV.pdf).
