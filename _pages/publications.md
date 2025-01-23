@@ -35,7 +35,7 @@ Publications
 
 
 <h3 style="color: gray:;"> peer-reviewed </h3>-->
-* **Zou F,** Kuhl BA, DuBrow S* & Hutchinson JB* (2025). Benefits of spaced learning are predicted by the re-encoding of past experience in ventromedial prefrontal cortex. *Cell Reports*. [`link`](https://doi.org/10.1101/2024.05.14.594263)
+* **Zou F,** Kuhl BA, DuBrow S* & Hutchinson JB* (2025). Benefits of spaced learning are predicted by the re-encoding of past experience in ventromedial prefrontal cortex. *Cell Reports*. [`link`](https://doi.org/10.1016/j.celrep.2025.115232) [`pdf`](http://futingzou.github.io/files/CellRep2025.pdf)
 * **Zou F** & Kuhl BA (2024). Time after time: preserving temporal memories when experiences repeat. *Journal of Cognitive Neuroscience*. [`link`](https://doi.org/10.1162/jocn_a_02212) [`pdf`](http://futingzou.github.io/files/JoCN2024.pdf)
 * **Zou F,** Wanjia G, Allen EJ, Wu Y, Charest I, Naselaris T, Kay K, Kuhl BA, Hutchinson JB* & DuBrow S* (2023). Re-expression of CA1 and entorhinal activity patterns preserves temporal context memory at long timescales. *Nature Communications*. [`link`](https://doi.org/10.1038/s41467-023-40100-8) [`pdf`](http://futingzou.github.io/files/NatComm2023.pdf)
 * **Zou F** & Kwok SC (2022). Distinct generation of subjective vividness and confidence during naturalistic memory retrieval in angular gyrus. *Journal of Cognitive Neuroscience*. [`link`](https://doi.org/10.1162/jocn_a_01838) [`pdf`](http://futingzou.github.io/files/JoCN2022.pdf) 
