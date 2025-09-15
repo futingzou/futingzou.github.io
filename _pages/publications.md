@@ -31,14 +31,14 @@ Publications
 =======
 \* denotes equal contribution
 
-<h3 style="color: #1a1a1a; font-size: 28px;">Preprints</h3>
+<h3 style="color: #3a3a3a; font-size: 22px;">Preprints</h3>
 
 **Hippocampal-guided reconstruction of an event’s prior temporal context**\
 **Zou F,** Hutchinson JB\* & Kuhl BA\*  \
 *bioRxiv, 2025*\
 <a href='https://doi.org/10.1101/2025.08.05.668710' class='btn btn--success'>HTML</a>
 
-<h3 style="color: #1a1a1a; font-size: 28px;">Peer-reviewed</h3>
+<h3 style="color: #3a3a3a; font-size: 22px;">Peer-reviewed</h3>
 
 **Benefits of spaced learning are predicted by the re-encoding of past experience in ventromedial prefrontal cortex**\
 **Zou F,** Kuhl BA, DuBrow S\* & Hutchinson JB\*\
