@@ -34,9 +34,9 @@ You can find my full list of publications on my [`Google Scholar profile.`](http
 
 <h3 style="color: #6a6a6a; font-size: 22px;">Preprints</h3>
 
-**Hippocampal-guided reconstruction of an event’s prior temporal context**\
+**Neural reconstruction of an event’s prior temporal context**\
 **Zou F,** Hutchinson JB\* & Kuhl BA\*  \
-*bioRxiv, 2025*\
+*Nature Communications, In Press*\
 <a href='https://doi.org/10.1101/2025.08.05.668710' class='btn btn--success'>HTML</a>
 
 <h3 style="color: #6a6a6a; font-size: 22px;">Peer-reviewed</h3>
